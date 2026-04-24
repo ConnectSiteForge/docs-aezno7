@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-5la3m3.chromi.io/sitemap.xml
